@@ -1,0 +1,6 @@
+{
+  "watch": ["backend.js", "src/server/*"],
+  "ext": "js,json",
+  "ignore": ["src/client/*", "node_modules/*", "*.test.js"],
+  "exec": "node backend.js"
+}
